@@ -55,9 +55,5 @@ class Solution {
         head = convertToLinkedList(new int[]{0, 1, 2, 3, 4});
         nums = new int[]{0, 3, 1, 4};
         System.out.println(test.numComponents(head, nums));
-
-        head = convertToLinkedList(new int[]{0, 1, 2, 3, 4, 5, 6});
-        nums = new int[]{0, 3, 1, 4, 6};
-        System.out.println(test.numComponents(head, nums));
     }
 }
