@@ -84,17 +84,3 @@ class Main2 {
         System.out.println(Solution5.getMaxArea(hist, n));
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
